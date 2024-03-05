@@ -13,7 +13,8 @@ First project once I was accepted in 42 Málaga was about creating your own libr
 in C replicating some of the standart library.
 
 <div align="center">
-| Projects  |           |  
+
+| Projects  |           |
 | --------- | --------- |
 | [Libft](https://github.com/AlfonsoFZ/Libft) | <font color="green">Succeed with 125% </font> |
 | [Ft_printf](https://github.com/AlfonsoFZ/ft_printf) | <font color="green">Succeed with 100% </font> |
@@ -25,4 +26,5 @@ in C replicating some of the standart library.
 | [Philosophers](https://github.com/AlfonsoFZ/Philosophers) | <font color="green">Succeed with 100% </font> |
 | [Minishell](https://github.com/AlfonsoFZ/minishell) | <font color="green">Succeed with 101% </font> |
 | [NetPractice](https://github.com/AlfonsoFZ/NetPractice) | <font color="green">Succeed with 100% </font> |
+
 </div>

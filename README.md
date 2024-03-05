@@ -16,15 +16,15 @@ in C replicating some of the standart library.
 
 | Projects  |           |
 | --------- | --------- |
-| [Libft](https://github.com/AlfonsoFZ/Libft) | <font color="green">Succeed with 125% </font> |
-| [Ft_printf](https://github.com/AlfonsoFZ/ft_printf) | <font color="green">Succeed with 100% </font> |
-| [Born2beroot](https://github.com/AlfonsoFZ/Born2beroot) | <font color="green">Succeed with 125% </font> |
-| [Get_next_line](https://github.com/AlfonsoFZ/get_next_line) | <font color="green">Succeed with 125% </font> |
-| [Push_swap](https://github.com/AlfonsoFZ/push_swap) | <font color="green">Succeed with 125% </font> |
-| [Pipex](https://github.com/AlfonsoFZ/pipex) | <font color="green">Succeed with 100% </font> |
-| [So_long](https://github.com/AlfonsoFZ/so_long) | <font color="green">Succeed with 100% </font> |
-| [Philosophers](https://github.com/AlfonsoFZ/Philosophers) | <font color="green">Succeed with 100% </font> |
-| [Minishell](https://github.com/AlfonsoFZ/minishell) | <font color="green">Succeed with 101% </font> |
-| [NetPractice](https://github.com/AlfonsoFZ/NetPractice) | <font color="green">Succeed with 100% </font> |
+| [Libft](https://github.com/AlfonsoFZ/Libft) | <font color="#1f883d">Succeed with 125% </font> |
+| [Ft_printf](https://github.com/AlfonsoFZ/ft_printf) | <font color="#1f883d">Succeed with 100% </font> |
+| [Born2beroot](https://github.com/AlfonsoFZ/Born2beroot) | <font color="#1f883d">Succeed with 125% </font> |
+| [Get_next_line](https://github.com/AlfonsoFZ/get_next_line) | <font color="#1f883d">Succeed with 125% </font> |
+| [Push_swap](https://github.com/AlfonsoFZ/push_swap) | <font color="#1f883d">Succeed with 125% </font> |
+| [Pipex](https://github.com/AlfonsoFZ/pipex) | <font color="#1f883d">Succeed with 100% </font> |
+| [So_long](https://github.com/AlfonsoFZ/so_long) | <font color="#1f883d">Succeed with 100% </font> |
+| [Philosophers](https://github.com/AlfonsoFZ/Philosophers) | <font color="#1f883d">Succeed with 100% </font> |
+| [Minishell](https://github.com/AlfonsoFZ/minishell) | <font color="#1f883d">Succeed with 101% </font> |
+| [NetPractice](https://github.com/AlfonsoFZ/NetPractice) | <font color="#1f883d">Succeed with 100% </font> |
 
 </div>

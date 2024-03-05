@@ -25,3 +25,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = git@github.com:AlfonsoFZ/push_swap.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:AlfonsoFZ/so_long.git

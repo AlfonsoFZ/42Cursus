@@ -15,7 +15,7 @@ in C replicating some of the standart library.
 | Projects  |           |  
 | --------- | --------- |
 | [Libft](https://github.com/AlfonsoFZ/Libft) | <font color="green">Succeed with 125% </font> |
-| [Ft_printf](https://github.com/Alfohttps://github.com/AlfonsoFZ/Libft/tree/d3a31284a2be26879112d11d5eecb1aa7369ccd4nsoFZ/Libft) | <font color="green">Succeed with 100% </font> |
+| [Ft_printf](https://github.com/AlfonsoFZ/ft_printf) | <font color="green">Succeed with 100% </font> |
 | [Born2beroot](https://github.com/AlfonsoFZ/Born2beroot) | <font color="green">Succeed with 125% </font> |
 | [Get_next_line](https://github.com/AlfonsoFZ/get_next_line) | <font color="green">Succeed with 125% </font> |
 | [Push_swap](https://github.com/AlfonsoFZ/push_swap) | <font color="green">Succeed with 125% </font> |

@@ -10,3 +10,18 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:AlfonsoFZ/get_next_line.git
+[submodule "NetPractice"]
+	path = NetPractice
+	url = git@github.com:AlfonsoFZ/NetPractice.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:AlfonsoFZ/minishell.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:AlfonsoFZ/Philosophers.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:AlfonsoFZ/pipex.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:AlfonsoFZ/push_swap.git

@@ -4,3 +4,9 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = https://github.com/AlfonsoFZ/ft_printf
+[submodule "Born2beroot"]
+	path = Born2beroot
+	url = git@github.com:AlfonsoFZ/Born2beroot.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:AlfonsoFZ/get_next_line.git

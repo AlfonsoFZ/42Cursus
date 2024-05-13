@@ -25,7 +25,7 @@ in C replicating some of the standart library.
 | [So_long](https://github.com/AlfonsoFZ/so_long) | <font color="#1f883d">Succeed with 100% </font> |
 | [Philosophers](https://github.com/AlfonsoFZ/Philosophers) | <font color="#1f883d">Succeed with 100% </font> |
 | [Minishell](https://github.com/AlfonsoFZ/minishell) | <font color="#1f883d">Succeed with 101% </font> |
-| [Cub3D](https://github.com/AlfonsoFZ/minishell](https://github.com/AlfonsoFZ/Cub3D) | <font color="#1f883d">Succeed with 103% </font> |
+| [Cub3D](https://github.com/AlfonsoFZ/Cub3D) | <font color="#1f883d">Succeed with 103% </font> |
 | [NetPractice](https://github.com/AlfonsoFZ/NetPractice) | <font color="#1f883d">Succeed with 100% </font> |
 
 </div>
